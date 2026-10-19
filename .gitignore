@@ -1,0 +1,4 @@
+# Exporty dat s ID uživatelů necommitovat
+*.json
+!package.json
+.DS_Store
